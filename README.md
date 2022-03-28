@@ -16,3 +16,21 @@ It is not required but a mysql server ide is helpful to interact with mysql serv
 ### mysql server: https://hub.docker.com/_/mysql
 
 ### mysql server ide: https://dev.mysql.com/downloads/workbench/
+
+## How to Run:
+
+- Run `app.py`
+- There is a list of functions as below:
+```python
+    create_database()
+    create_table()
+    insert_multi_items()
+    delete_items()
+    get_select()
+    get_where()
+    get_order_by()
+    get_limit()
+    get_update()
+    join_items()
+    drop_table()
+```
