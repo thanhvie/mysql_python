@@ -34,3 +34,7 @@ It is not required but a mysql server ide is helpful to interact with mysql serv
     join_items()
     drop_table()
 ```
+
+## Security:
+
+- All sensitive data is stored in `.env` file. They will be updated by users at setup time.
