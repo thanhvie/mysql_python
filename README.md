@@ -17,7 +17,7 @@ It is not required but a mysql server ide is helpful to interact with mysql serv
 
 ### mysql server ide: https://dev.mysql.com/downloads/workbench/
 
-## How to Run:
+# How to Run:
 
 - Run `app.py`
 - There is a list of functions as below:
@@ -35,6 +35,6 @@ It is not required but a mysql server ide is helpful to interact with mysql serv
     drop_table()
 ```
 
-## Security:
+# Security:
 
 - All sensitive data is stored in `.env` file. They will be updated by users at setup time.
